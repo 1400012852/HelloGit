@@ -2,6 +2,8 @@
 
 int main() {
 	printf("hello world");
+	printf("second version");
 	return 0;
 
 }
+
